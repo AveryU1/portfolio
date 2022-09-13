@@ -9,9 +9,6 @@
     "preview": "vite preview",
     "preinstall": "npx npm-force-resolutions"
   },
-  "resolutions": {
-    "react-error-overlay": "6.0.9"
-  },
   "dependencies": {
     "@sanity/client": "^3.3.6",
     "@sanity/image-url": "^1.0.1",
